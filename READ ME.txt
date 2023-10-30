@@ -1,0 +1,7 @@
+﻿For the final modification of our microgame, we had to adjust the game’s post processing and for my take, I tried to go for a more vaporwave inspired, cool toned neon look for my microgame. 
+
+
+I achieved the brighter cooler toned look for my microgame by bumping up the visual contrast with the use of scalable ambient obscurance. Using the scalable ambient obscurance option, I was able to make the environment’s shadows more intense and more easily contrast with the rest of the environment even with bloom in effect. I also wanted more contrast as I still wanted to make sure to maintain visual clarity for all game elements despite me mostly working with a blue/purple color scheme and theming for my game. 
+
+
+Further use of the color grading feature along with setting up my own custom tone mapping allowed me to shift the game’s image to resemble a much more vibrant and saturated cool toned environment. This also helped me greatly increase the aforementioned bloom effect by making it so that the gain of the camera’s rendered image was of a lighter and more saturated color. This helped to counteract the too bright or “white out” effect I would have gotten if I had only cranked up the intensity of the bloom competent and applied no other effects.
